@@ -13,3 +13,4 @@ Prerequisites: have node.js and a terminal
 4. You now have a winner
 5. Pick person to read the code and cry at bad indentation
 
+I'll improve this a little bit later to just have a simple UI + a button to pick someone at random so you can access via a link.
